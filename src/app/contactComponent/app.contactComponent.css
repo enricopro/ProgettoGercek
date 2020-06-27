@@ -1,0 +1,18 @@
+.fa {
+  color: white;
+}
+.d-flex {
+  color: white; 
+  background-color: #292929;
+  padding-top: 4px;
+}
+.ref:link {
+  color: #fff;
+}
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  background-color: #292929;
+  margin: 0px;
+}
